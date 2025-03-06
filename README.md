@@ -82,7 +82,7 @@ To optimize performance, several indexes were implemented:
 - **MariaDB** (recommended on Ubuntu 22.04)
 - **Anaconda** (for Python environment management)
 
-### 📌 **Installation Steps**
+### **Installation Steps**
 
 1. Install required libraries using:
 
@@ -129,7 +129,7 @@ For full documentation, including the **ER Diagram**, relational schema, and que
 
 ---
 
-##**Authors**
+## **Authors**
 
 - **Γεώργιος Τσαπικούνης**
 - **Χρήστος Σκάρλος**
